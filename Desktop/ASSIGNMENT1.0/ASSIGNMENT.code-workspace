@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../FLEX"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ASSIGNMENT1.0"
+	}
+}
